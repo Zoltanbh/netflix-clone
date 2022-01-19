@@ -1,2 +1,2 @@
 # Netflix-clone
- Pagina inícila da Netflix 
+ A  idéia é desenvolver uma página inícial da Netflix.
